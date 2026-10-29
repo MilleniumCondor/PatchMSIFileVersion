@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PatchMsiFileVersion.vcxproj" Id="900fe324-aa05-4bd8-879f-dc097b14e0a6" />
+</Solution>
