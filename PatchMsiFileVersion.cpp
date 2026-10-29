@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 	{
 		if (!fs::exists(szVersionFile))
 		{
-			std::cout << "File does not exist";
+			std::wcout << L"File does not exist : " << szVersionFile << L"\n";
 			return 1;
 		}
 
